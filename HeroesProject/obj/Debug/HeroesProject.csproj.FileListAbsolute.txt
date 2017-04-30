@@ -1,0 +1,6 @@
+C:\Users\Jorddy\Documents\Visual Studio 2017\Projects\HeroesProject\HeroesProject\bin\Debug\HeroesProject.exe.config
+C:\Users\Jorddy\Documents\Visual Studio 2017\Projects\HeroesProject\HeroesProject\bin\Debug\HeroesProject.exe
+C:\Users\Jorddy\Documents\Visual Studio 2017\Projects\HeroesProject\HeroesProject\bin\Debug\HeroesProject.pdb
+C:\Users\Jorddy\Documents\Visual Studio 2017\Projects\HeroesProject\HeroesProject\obj\Debug\HeroesProject.csprojResolveAssemblyReference.cache
+C:\Users\Jorddy\Documents\Visual Studio 2017\Projects\HeroesProject\HeroesProject\obj\Debug\HeroesProject.exe
+C:\Users\Jorddy\Documents\Visual Studio 2017\Projects\HeroesProject\HeroesProject\obj\Debug\HeroesProject.pdb
