@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace HeroesProject
 {
-    partial class Program
+    class Hero
     {
-        static void Main(string[] args)
-        {
-            Console.Title = "HotS Stats";
-        }
+        public int Id { get; }
+        public string Name { get; set; }
+    }
 }
