@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+
+
 namespace HeroesProject
 {
     partial class Program
@@ -12,5 +14,7 @@ namespace HeroesProject
         static void Main(string[] args)
         {
             Console.Title = "HotS Stats";
+            
         }
+    }
 }
